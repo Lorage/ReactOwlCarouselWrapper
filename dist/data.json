@@ -1,0 +1,44 @@
+
+
+[
+  {
+    "slideId": "one",
+    "type": "image",
+    "url": "/images/001.jpg",
+    "textContent": {
+      "type": "list",
+      "textHeader": "Header 1",
+      "text": [
+        {
+          "content": "This is the first line of the list",
+          "contentId": "contentOne"
+        },
+        {
+          "content": "This is the second line of the list ",
+          "contentId": "contentTwo"
+        }
+
+      ]
+    }
+  },
+  {
+    "slideId": "two",
+    "type": "image",
+    "url": "/images/002.jpg",
+    "textContent": {
+      "type": "text",
+      "textHeader": "Header 2",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel blandit felis, eget bibendum lacus. Aliquam a commodo nunc. "
+    }
+  },
+  {
+    "slideId": "three",
+    "type": "image",
+    "url": "/images/001.jpg",
+    "textContent": {
+      "type": "text",
+      "textHeader": "Header 3",
+      "text": "Image 3"
+    }
+  }
+]
